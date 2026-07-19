@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McFleet8.aternos.me",
-    "port": 14557,
+    "ip": "ChallangeWhity.aternos.me",
+    "port": 27481,
     "version": "1.20.1",
     "try-creative": false
   },
